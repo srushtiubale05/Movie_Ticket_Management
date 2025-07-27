@@ -7,7 +7,10 @@ This project demonstrates strong integration between a GUI application and a dat
 ---
 
 ## 📽️ Demo Video
-🎥 [Watch the Project in Action]([https://drive.google.com/file/d/1QuE7cvm76AI5JazNoJWVuOspzrySgBuL/view?usp=drive_link])  
+
+
+🎥 [Watch the Project in Action on Google Drive](https://drive.google.com/file/d/1QuE7cvm76AI5JazNoJWVuOspzrySgBuL/view?usp=drive_link)
+
 
 ---
 
